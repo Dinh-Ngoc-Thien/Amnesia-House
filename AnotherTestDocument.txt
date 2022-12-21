@@ -1,0 +1,1 @@
+This is another test document to makes sure that Git work ok.
